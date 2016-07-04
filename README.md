@@ -1,4 +1,4 @@
-Node.js sample app on OpenShift!
+Node.js sample app on OpenShift! Changed by gm90
 -----------------
 
 This example will serve a welcome page and the current hit count as stored in a database.
